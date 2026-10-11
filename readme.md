@@ -1,4 +1,4 @@
-Store Sales - Time Series Forecasting (Kaggle Project)
+**Store Sales - Time Series Forecasting (Kaggle Project)**
 
 Прогнозирование объемов продаж торговой сети с использованием анализа временных рядов.
 
